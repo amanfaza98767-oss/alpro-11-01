@@ -8,9 +8,5 @@ func main() {
 	fmt.Scanf("%d", &x)
 	fmt.Scanf("%d", &low)
 	fmt.Scanf("%d", &high)
-	if (x >= low) && (x <= high) {
-		fmt.Println("True")
-	}else {
-		fmt.Println("False")
-	}
+	fmt.Println((x >= low) && (x <= high))
 }
