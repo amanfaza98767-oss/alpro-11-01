@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul [00] - [Bahasa Pemograman Go]</h1>
+# <h1 align="center">Laporan Praktikum Modul [02] - [Bahasa Pemograman Go]</h1>
 <p align="center">[Amanullah Risky Maya Sekti] - [109092600020]</p>
 
 ## Dasar Teori
