@@ -16,7 +16,7 @@ func main() {
 		case "T":
 			truk++
 		default:
-			break
+		break
 		}
 		if kendaraan != "M" && kendaraan != "K" && kendaraan != "T"{
 			break
