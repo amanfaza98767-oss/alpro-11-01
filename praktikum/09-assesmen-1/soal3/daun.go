@@ -1,0 +1,19 @@
+package main
+import "fmt"
+
+func main() {
+	var n, lebar, terkecil int
+
+	fmt.Scan(&n)
+
+	for i := 1; i <= n; i++ {
+		fmt.Scan(&lebar)
+
+		if i == 1 {
+			terkecil = lebar
+		} else if lebar < terkecil {
+			terkecil = lebar
+		}
+	}
+	fmt.Println(terkecil)
+}
